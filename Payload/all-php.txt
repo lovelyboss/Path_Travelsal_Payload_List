@@ -1,4 +1,5 @@
 home.php
+admin.txt
 setup.php
 install.php
 init.php
@@ -25417,3 +25418,5 @@ mysql_upgrade_zencart_136_to_137.php
 mysql_upgrade_zencart_137_to_138.php
 mysql_zencart.php
 techsupp.php
+
+a
